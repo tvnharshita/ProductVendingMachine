@@ -1,0 +1,7 @@
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\bin\Debug\ProductVendingMachine.exe.config
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\bin\Debug\ProductVendingMachine.exe
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\bin\Debug\ProductVendingMachine.pdb
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\obj\Debug\ProductVendingMachine.csprojAssemblyReference.cache
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\obj\Debug\ProductVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\obj\Debug\ProductVendingMachine.exe
+C:\Users\harshitha.thupakula.ALTRUISTA\source\repos\ProductVendingMachine\obj\Debug\ProductVendingMachine.pdb
